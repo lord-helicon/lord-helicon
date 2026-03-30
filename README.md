@@ -85,7 +85,7 @@ mission: Forging digital realms with divine precision
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=lord-helicon&theme=radical&background=0a0a0f&ring=00e5ff&fire=00e5ff&currStreakLabel=00e5ff&sideLabels=c9d1d9&dates=555555&border=00e5ff30" width="48%" />
+<img src="https://streak-stats.demolab.com?user=lord-helicon&theme=radical&background=0a0a0f&ring=00e5ff&fire=00e5ff&currStreakLabel=00e5ff&sideLabels=c9d1d9&dates=555555&border=00e5ff30" width="48%" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lord-helicon&layout=compact&theme=radical&bg_color=0a0a0f&title_color=00e5ff&text_color=c9d1d9&border_color=00e5ff30" width="40%" />
 
 </div>
