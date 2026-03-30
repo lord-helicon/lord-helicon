@@ -18,7 +18,7 @@
 
 <br/>
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=lord-helicon&show_icons=true&theme=radical&bg_color=0a0a0f&title_color=00e5ff&icon_color=00e5ff&text_color=c9d1d9&border_color=00e5ff30&hide_border=false&count_private=true" width="48%" />
+<img align="right" src="https://<img align="right" src="https://github-readme-stats-sigma-five.vercel.app/api?username=lord-helicon&show_icons=true&theme=radical&bg_color=0a0a0f&title_color=00e5ff&icon_color=00e5ff&text_color=c9d1d9&border_color=00e5ff30&hide_border=false&count_private=true" width="48%" />=true&theme=radical&bg_color=0a0a0f&title_color=00e5ff&icon_color=00e5ff&text_color=c9d1d9&border_color=00e5ff30&hide_border=false&count_private=true" width="48%" />
 
 ### 🔱 About Me
 
@@ -86,7 +86,7 @@ mission: Forging digital realms with divine precision
 <div align="center">
 
 <img src="https://streak-stats.demolab.com?user=lord-helicon&theme=radical&background=0a0a0f&ring=00e5ff&fire=00e5ff&currStreakLabel=00e5ff&sideLabels=c9d1d9&dates=555555&border=00e5ff30" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lord-helicon&layout=compact&theme=radical&bg_color=0a0a0f&title_color=00e5ff&text_color=c9d1d9&border_color=00e5ff30" width="40%" />
+<img src="https://<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=lord-helicon&layout=compact&theme=radical&bg_color=0a0a0f&title_color=00e5ff&text_color=c9d1d9&border_color=00e5ff30" width="40%" />/?username=lord-helicon&layout=compact&theme=radical&bg_color=0a0a0f&title_color=00e5ff&text_color=c9d1d9&border_color=00e5ff30" width="40%" />
 
 </div>
 
