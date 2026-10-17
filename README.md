@@ -12,9 +12,11 @@
 
 ### Technology
 
-**Infrastructure** — Azure · Linux · Windows Server · Virtualization · Networking · Docker · CI/CD
+**Infrastructure** — Azure · Kubernetes · GitOps (FluxCD) · Infrastructure as Code · Linux · Networking · CI/CD
 
-**Development** — TypeScript · React · Python · Rust · C# · Node.js · SQL
+**Development** — Go · TypeScript / Next.js · Python / FastAPI · PostgreSQL · Rust · C#
+
+**Data & AI** — Data Lake · ETL · LLM tooling · MCP servers · agent workflows
 
 ### Contact
 
